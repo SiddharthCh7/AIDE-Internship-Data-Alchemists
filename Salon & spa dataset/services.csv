@@ -1,0 +1,88 @@
+"service_id";"service_name";"package_id";"price";"service_duration";"warranty_id";"segmentation_type_id"
+1524;"Hair cut & spa";505;1649;105;0;11164
+1525;"Hair spa & style";506;1499;105;0;11164
+1526;"Cut & botox/keratin";507;5249;225;0;11164
+1527;"Blow dry: Straight & Smooth";508;399;45;0;11164
+1528;"Blow dry: In curl/Out curl";509;399;45;0;11164
+1529;"3 styling services";511;1199;120;0;11164
+1530;"4 styling services";511;1599;105;0;11164
+1531;"5 styling services";511;1999;200;0;11164
+1532;"Hair trim";512;499;20;0;11164
+1533;"Straightening";510;499;45;0;11164
+1534;"Ayurvedic hair spa";513;1299;60;0;11164
+1535;"Hair botox";514;5499;180;0;11164
+1536;"Shade 2: Darkest brown";515;1299;30;0;11164
+1537;"Shade 3: Dark brown";515;1299;30;0;11164
+1538;"Shade 4: Brown";515;1299;39;0;11164
+1539;"Shade 7.23 - Blonde with golden iridescent";516;3499;120;0;11164
+1540;"Shade 8.31 - Golden beige";516;3499;120;0;11164
+1541;"Shade 7.8 - Mocha blonde";516;3499;120;0;11164
+1542;"Shade 6.35 - Dark golden mahogany blonde";516;3499;180;0;11164
+1543;"Shade - Magenta red";516;3499;180;0;11164
+1544;"60-min detox therapy";517;1399;60;0;11165
+1545;"90-min detox therapy";517;1999;90;0;11165
+1546;"Bhringadi Head massage";518;399;20;0;11165
+1547;"Paaad Abhyanga";519;499;20;0;11166
+1548;"Neck & Shoulder";520;499;20;0;11167
+1549;"Back";520;499;20;0;11167
+1550;"Legs";520;499;20;0;11167
+1551;"Vedic signature";521;1849;180;0;11168
+1552;"Abhyangam: Neck to toe Stress rellief massage";522;899;40;0;11167
+1553;"Glovite lightening facial";523;1099;80;0;11169
+1554;"O3+ shine & glow facial";524;1699;180;0;11169
+1555;"Sara fruit cleanup";525;699;45;0;11169
+1556;"Elysian firming wine glow facial";526;1199;75;0;11169
+1557;"O3+ tan clear cleanup";527;899;45;0;11169
+1558;"O3+ feel youth facial";528;1599;80;0;11169
+1559;"Elysian pinacolada fruit cleanup";529;799;45;0;11169
+1560;"Back";530;499;30;0;11169
+1561;"Full legs";530;599;40;0;11169
+1562;"Face & Neck";530;399;20;0;11169
+1563;"Chest";530;449;30;0;11169
+1564;"Full arms";530;399;30;0;11169
+1565;"Full body";530;1599;60;0;11169
+1566;"Full legs";531;599;40;0;11169
+1567;"Full body";531;1549;120;0;11169
+1568;"Full arms";531;449;30;0;11169
+1569;"Chest";531;449;30;0;11169
+1570;"Face & Neck";531;349;20;0;11169
+1571;"Back";531;449;30;0;11169
+1572;"Waxing: Chin";532;109;10;0;11170
+1573;"Waxing: Forehead";532;109;10;0;11170
+1574;"Waxing: Full face";532;440;30;0;11170
+1575;"Waxing: Jawline";532;109;10;0;11170
+1576;"Waxing: Neck wax";532;219;10;0;11170
+1577;"Waxing: Sidelocks";532;109;10;0;11170
+1578;"Waxing: Upper lip";532;76;10;0;11170
+1579;"Full body(Honey)";533;1399;180;0;11170
+1580;"Full body(RICA)";533;1899;180;0;11170
+1581;"Full body(Chocolate roll-on)";533;1599;180;0;11170
+1582;"Full body(RICA roll-on)";533;1999;180;0;11170
+1583;"Full legs(Honey)";534;359;30;0;11170
+1584;"Full legs(RICA)";534;609;30;0;11170
+1585;"Full legs(Chocolate roll-on)";534;499;30;0;11170
+1586;"Full legs(RICA roll-on)";534;599;30;0;11170
+1587;"Half legs(Honey)";535;199;15;0;11170
+1588;"Half legs(RICA)";535;349;15;0;11170
+1589;"Underarms(Honey)";536;49;10;0;11170
+1590;"Underarms(RICA)";536;149;10;0;11170
+1591;"Back(Honey)";537;449;15;0;11170
+1592;"Back(RICA)";537;449;15;0;11170
+1593;"Stomach(Honey)";538;299;15;0;11170
+1594;"Stomach(RICA)";538;499;15;0;11170
+1595;"Elysian candle spa pedicure";540;1249;80;0;11171
+1596;"Elysian british rose pedicure";547;759;65;0;11171
+1597;"Cut, file & polish";541;199;15;0;11171
+1598;"Elysian british rose manicure";542;699;45;0;11172
+1599;"Elysian chocolate & vanilla manicure";543;899;45;0;11172
+1600;"Elysian candle spa manicure";544;1049;60;0;11172
+1601;"Cut, file & polish";545;149;15;0;11172
+1602;"Eyebrow";546;49;10;0;11169
+1603;"Forehead";546;59;10;0;11169
+1604;"Full face";546;149;10;0;11169
+1605;"Sidelocks";546;49;10;0;11169
+1606;"Upper lip";546;49;10;0;11169
+1607;"Neck threading";546;149;10;0;11169
+1608;"Jawline";546;99;10;0;11169
+1609;"Chin";546;29;10;0;11169
+1610;"Elysian chocolate & vanilla pedicure";539;899;45;0;11169
